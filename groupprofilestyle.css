@@ -11,7 +11,6 @@ body {
     width: 100%;
     background-color: #e4e4e4;
     display: flex;
-    /* Responsive behaviour */
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
@@ -97,16 +96,3 @@ button i {
     color: #fff;
     font-size: 1.4em;
 }
-
-/* Social media colors */
-button.github {
-    background-color: #24292e;
-} 
-
-button.linkedin {
-    background-color: #1da1f2;
-}
-
-button.instagram {
-    background-color: #FF449F;
-} 
